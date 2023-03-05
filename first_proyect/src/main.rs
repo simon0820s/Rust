@@ -14,5 +14,10 @@ fn main() {
     std::io::stdin().read_line(&mut age).unwrap();
     let age_int:u8=age.trim().parse().unwrap();
 
-    println!("wellcome {} of {} years old",user,age_int)
+    if age_int>=18{
+        println!("wellcome {} of {} years old",user,age_int)
+    }
+    else{
+        println!("sorry you are a minor")
+    }
 }
