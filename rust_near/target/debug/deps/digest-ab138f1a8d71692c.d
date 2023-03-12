@@ -1,0 +1,11 @@
+/home/simon/Escritorio/programación/rust/rust_near/target/debug/deps/digest-ab138f1a8d71692c.rmeta: /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/simon/Escritorio/programación/rust/rust_near/target/debug/deps/digest-ab138f1a8d71692c.d: /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs:
+/home/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs:
