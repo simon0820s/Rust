@@ -1,0 +1,11 @@
+/home/simon/programacion/rust/firstApi/target/debug/deps/futures_task-13aa95e265eaf088.rmeta: /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/arc_wake.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker_ref.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs
+
+/home/simon/programacion/rust/firstApi/target/debug/deps/futures_task-13aa95e265eaf088.d: /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/arc_wake.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker_ref.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs
+
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/lib.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/spawn.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/arc_wake.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/waker_ref.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/future_obj.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.29/src/noop_waker.rs:

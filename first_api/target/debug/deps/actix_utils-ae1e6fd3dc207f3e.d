@@ -1,0 +1,10 @@
+/home/simon/programacion/rust/firstApi/target/debug/deps/actix_utils-ae1e6fd3dc207f3e.rmeta: /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/lib.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/counter.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/mod.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/either.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/poll_fn.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/ready.rs
+
+/home/simon/programacion/rust/firstApi/target/debug/deps/actix_utils-ae1e6fd3dc207f3e.d: /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/lib.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/counter.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/mod.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/either.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/poll_fn.rs /home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/ready.rs
+
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/lib.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/counter.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/mod.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/either.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/poll_fn.rs:
+/home/simon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-utils-3.0.1/src/future/ready.rs:
